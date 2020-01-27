@@ -10,7 +10,7 @@ namespace Vet_ej_inte_viktigt
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("hej");
 
         }
     }
