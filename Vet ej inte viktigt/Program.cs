@@ -12,6 +12,8 @@ namespace Vet_ej_inte_viktigt
         {
             Console.WriteLine("hej");
 
+            Console.ReadLine();
+
         }
     }
 }
